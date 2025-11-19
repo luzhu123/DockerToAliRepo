@@ -2,7 +2,6 @@
 #nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
-#nacos/nacos-server:v2.1.0
 #kubesphere/ks-installer:v3.4.1
 #docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.17.0
 #docker.elastic.co/elasticsearch/elasticsearch:8.17.0
